@@ -510,4 +510,4 @@ var promiseScan = function(obj) {
 	})
 }
 
-console.log('mau5 is loaded')
+console.log('mau5 is loaded from mau5.js')
